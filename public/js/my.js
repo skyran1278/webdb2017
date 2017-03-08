@@ -9,7 +9,7 @@ var run = function() {;
     .attr('stroke', 'green')
     .attr('stroke-width', 4)
     .attr('fill', 'yellow');
-    document.querySelector('#introduce').innerHTML = '<h4>目前沒有資料喔！</h4>'
+    document.querySelector('#introduce').innerHTML = '目前沒有資料喔！'
 };
 
 
