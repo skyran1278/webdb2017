@@ -9,6 +9,7 @@ var run = function() {;
     .attr('stroke', 'green')
     .attr('stroke-width', 4)
     .attr('fill', 'yellow');
+    $('#introduce').innerHTML = 'I am Skyran'
 };
 
 
