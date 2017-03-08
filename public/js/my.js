@@ -9,7 +9,7 @@ var run = function() {;
     .attr('stroke', 'green')
     .attr('stroke-width', 4)
     .attr('fill', 'yellow');
-    document.querySelector('#introduce').innerHTML = '目前沒有資料喔！'
+    document.querySelector('#introduce').innerHTML = '<h4>I am Skyran.</h4><br /><h4>I am interested in JS.</h4><br /><h4>Thank you for providing such a good course XDDD</h4>';
 };
 
 
